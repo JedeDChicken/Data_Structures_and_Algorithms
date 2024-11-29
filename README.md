@@ -12,3 +12,6 @@
 *Stack
 
 # Circular Doubly Linked List, Binary Search Tree, AVL Tree
+
+*Acknowledgements- 
+1. Michael Sambol- YT channel
