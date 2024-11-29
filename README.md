@@ -1,11 +1,12 @@
-# Search
+# Search, Sort, Recursion, Iteration
 
 *Binary Search
 
-# Sort
-
 *Selection, Bubble, Insertion, Merge, Quick Sorts
 
-# Recursion and Iteration
-
 *Factorial, Fibonacci
+
+# Queue, Stack
+
+*Queue, Deque
+*Stack
